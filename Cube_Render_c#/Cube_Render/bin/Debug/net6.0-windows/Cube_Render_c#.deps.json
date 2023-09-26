@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Cube_Render_c#/1.0.0": {
+        "runtime": {
+          "Cube_Render_c#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cube_Render_c#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
